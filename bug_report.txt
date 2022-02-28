@@ -1,0 +1,10 @@
+Issue Title
+Issue Type
+Priority
+Issue Status
+Author (Created by)
+
+Issue Description
+Steps to reproduce
+Expected result
+Actual result
